@@ -12,7 +12,6 @@ I was tasked with created a Portfolio page that used some of the skills I've lea
 
 
 ## Design
-![image](./assets/img/done.png)
 
 I kept a simple design using a bootstrap css framework.  The page runs with jquery and javascript.
 
