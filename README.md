@@ -43,7 +43,7 @@ https://github.com/stongems/Portfolio-2.0/
 https://stongems.github.io/Portfolio-2.0/
 ```
 
-[LINKEDIN](https://https://www.linkedin.com/in/matthew-st-onge-6a8038209/)
+[LINKEDIN](https://www.linkedin.com/in/matthew-st-onge-6a8038209)
 ```
 https://www.linkedin.com/in/matthew-st-onge-6a8038209/
 ```
