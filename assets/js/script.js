@@ -7,7 +7,7 @@ $(function() {
         let somethingHere = `assets/img/stongeIcon(${logoChanger}).png`;
         $("#logo").attr("src", somethingHere)
         logoChanger == 16 ? 2 : logoChanger++;
-    }, 3000);
+    }, 5000);
        
 
     $('.navbar-toggle').click(function() {
