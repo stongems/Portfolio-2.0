@@ -164,7 +164,8 @@
 	}
 
 	.site-logo img {
-		height: 22px;
+		height: 100px;
+		margin-top: -10px;
 	}
 
 	/* Navigation */
