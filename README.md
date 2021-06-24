@@ -28,11 +28,9 @@ HTML, Bootstrap CSS, Logo Desgin, JavaScript, Jquery
 
 ![image](./assets/img/portimg1.png)
 
-UI will be placed over a splash image. Navigation Bar is collapsable to free up window space for other functionality.
 
 ![image](./assets/img/portimg2.png)
 
-Site will be responsive and reorganize into a single column when window is at smallest setting.
 
 
 ## Links
