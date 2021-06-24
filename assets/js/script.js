@@ -1,24 +1,14 @@
 $(function() {
     
-    
-function setTime() {
-        // Sets interval in variable
-        var timerInterval = setInterval(function() {
-          secondsLeft--;
-          timeEl.textContent = secondsLeft + " seconds left till colorsplosion.";
-      
-          if(secondsLeft === 0) {
-            // Stops execution of action at set interval
-            clearInterval(timerInterval);
-            // Calls function to create and append image
-            sendMessage();
-          }
-      
-        }, 1000);
-      }
-        
-        `assets\img\stongeIcon (${#}).png`
+    let logoChanger = 2;
 
+    // Sets interval in variable
+    setInterval(() => {
+        let somethingHere = `assets/img/stongeIcon(${logoChanger}).png`;
+        $("#logo").attr("src", somethingHere)
+        logoChanger == 16 ? 2 : logoChanger++;
+    }, 3000);
+       
 
     $('.navbar-toggle').click(function() {
         $(this).toggleClass('act');
