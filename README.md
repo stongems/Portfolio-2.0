@@ -3,7 +3,7 @@ A website to show off my skills as a full stack developer
 
 
 ## Overview
-I was tasked with created a Portfolio page that used some of the skills I've learned along the way. 
+I was tasked with creating a Portfolio page that used some of the skills I've learned along the way. 
 
 
 ## Criteria
@@ -25,10 +25,10 @@ HTML, Bootstrap CSS, Logo Desgin, JavaScript, Jquery
 [LogoDesign](https://https://www.freelogodesign.org)
 
 
-![image](./assets/img/portimg1.png)
+![image](./assets/img/portReadMe.png)
 
 
-![image](./assets/img/portimg2.png)
+![image](./assets/img/readmePort.png)
 
 
 
