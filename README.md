@@ -18,7 +18,7 @@ I kept a simple design using a bootstrap css framework.  The page runs with jque
 
 ## Technologies Used
 
-HTML, Bootstrap CSS, Logo Desgin, JavaScript, Jquery
+HTML, Bootstrap CSS, Logo Design, JavaScript, Jquery
 
 [BootstrapCSS](https://https://www.free-css.com/free-css-templates)
 
